@@ -92,3 +92,8 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+
+# JetBrains
+# =================
+.idea/
+*.iml
